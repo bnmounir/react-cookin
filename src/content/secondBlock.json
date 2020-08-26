@@ -1,0 +1,16 @@
+{
+    "title": "Building Community",
+    "text": "Whether batching orders for your apartment complex or just picking up lovely meals from your neighbors, experience a moment of genuine connections with those around you.",
+    "section": [
+        {
+            "title": "Healthy Food",
+            "content": "Wholesome, nourishing home-cooked food could be just a click away...and down the block.",
+            "icon": "shape.svg"
+        },
+        {
+            "title": "Create Local Opportunity",
+            "content": "Not every talented cook has time or money to open a restaurant - but every one of them can cook for What's Cookin'",
+            "icon": "shape.svg"
+        }
+    ]
+}

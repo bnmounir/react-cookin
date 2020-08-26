@@ -1,0 +1,36 @@
+{
+    "title": "Meet our team",
+    "text": "Bunch of hardworking people. passionate about building products that support the community",
+    "members": [
+        {
+            "name": "John Doe",
+            "title": "Software Engineer",
+            "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+            "shortBio": "Bunch of hardworking people. passionate about building products that support the community"
+        },
+        {
+            "name": "John Doe",
+            "title": "Software Engineer",
+            "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+            "shortBio": "Bunch of hardworking people. passionate about building products that support the community"
+        },
+        {
+            "name": "John Doe",
+            "title": "Software Engineer",
+            "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+            "shortBio": "Bunch of hardworking people. passionate about building products that support the community"
+        },
+        {
+            "name": "John Doe",
+            "title": "Software Engineer",
+            "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+            "shortBio": "Bunch of hardworking people. passionate about building products that support the community"
+        },
+        {
+            "name": "John Doe",
+            "title": "Software Engineer",
+            "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+            "shortBio": "Bunch of hardworking people. passionate about building products that support the community"
+        }
+    ]
+}

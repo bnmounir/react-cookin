@@ -1,0 +1,16 @@
+{
+    "title": "Find Home-Cooked Meals Nearby",
+    "text": "Whether you are living by yourself or you’re with a group of people, What’s Cookin can connect you to home-cooked food that is nearby and accessible. If you’re on the other side of the coin and you find yourself cooking wonderful food, but not having people to share it with, we can create you an account where you can meet people who will love to eat what you make.",
+    "button": [
+        {
+            "title": "Live Demo",
+            "url": "https://app.whatscookin.us/",
+            "color": "#fff"
+        },
+        {
+            "title": "Get in touch",
+            "color": "#fff",
+            "to": "/contact"
+        }
+    ]
+}

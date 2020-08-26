@@ -1,0 +1,11 @@
+{
+    "title": "Share Meals and More with your Community",
+    "text": "What if it was easy to find out what your neighbors have got cooking – and when they’d like to share?  We might all have to be socially distanced, but sharing with each other is a great way to stay connected.  Not a cook?  Offer to pick up an item at the grocery and save your neighbors a trip, or even a creative or outdoor activity.  We can get through this together!",
+    "button": [
+        {
+            "title": "Get Started",
+            "url": "https://app.whatscookin.us/",
+            "color": "#fff"
+        }
+    ]
+}
